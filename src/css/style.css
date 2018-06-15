@@ -1,0 +1,10 @@
+body {
+  background: #fafafa; }
+
+.wrapper {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex; }
+  .wrapper .news {
+    float: left;
+    text-align: center; }

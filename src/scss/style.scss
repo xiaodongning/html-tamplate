@@ -1,0 +1,12 @@
+$blue:#1890ff;
+$gray:#fafafa;
+body{
+    background:$gray;
+}
+.wrapper{
+    display: flex;
+    .news{
+        float:left;
+        text-align: center;
+    }
+}
