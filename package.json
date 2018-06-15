@@ -1,13 +1,12 @@
 {
-  "name": "html-gulp-pj",
-  "version": "1.0.1",
-  "description": "a simple gulp demo for html",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "xiaodongning <570944890@qq.com>",
-  "license": "ISC",
+  "name": "{{name}}",
+ "version": "1.0.0",
+ "description": "{{description}}",
+ "scripts": {
+  "test": "echo \"Error: no test specified\" && exit 1"
+ },
+ "author": "{{author}}",
+ "license": "ISC",
   "devDependencies": {
     "browser-sync": "^2.24.4",
     "del": "^3.0.0",
